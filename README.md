@@ -177,3 +177,5 @@ We provide [Scratch](https://scratch.mit.edu) free of charge, and want to keep i
 
 Scratch-paint couldn't exist without [w00dn/papergrapher](https://github.com/w00dn/papergrapher) and [Paper.js](https://github.com/paperjs/paper.js). If you are amazed and/or baffled by the insane boolean operation math that makes the brush and eraser tools possible, please check out and consider contributing to Paper. Thank you!
 -->
+#   A f t e r c o d e - p a i n t  
+ 
