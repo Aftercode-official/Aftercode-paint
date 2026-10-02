@@ -46,7 +46,7 @@
     "react-style-proptype": "^3",
     "react-tooltip": "^3",
     "redux": "^3",
-    "scratch-render-fonts": "github:Aftercode-official/Aftercode-font#master"
+    "scratch-render-fonts": "github:Aftercode-official/Aftercode-font#main"
   },
   "devDependencies": {
     "@babel/core": "^7.29.7",
