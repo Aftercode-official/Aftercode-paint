@@ -26,7 +26,7 @@ import Input from '../forms/input.jsx';
 import {makeAlphaComponent} from '../../lib/tw-color-utils';
 import TWColorReadout from '../tw-color-readout/tw-color-readout.jsx';
 import TWRenderRecoloredImage from '../../tw-recolor/render.jsx';
-import RecentColorsContainer from '../../containers/nb-recent-colors.jsx';
+import RecentColorsContainer from '../../containers/ac-recent-colors.jsx';
 
 const BufferedInput = BufferedInputHOC(Input);
 

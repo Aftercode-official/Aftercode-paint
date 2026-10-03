@@ -8,7 +8,7 @@ import {changeStrokeWidth} from '../reducers/stroke-width';
 import {openStrokeColor, closeStrokeColor} from '../reducers/modals';
 import {getSelectedLeafItems} from '../helper/selection';
 import {setSelectedItems} from '../reducers/selected-items';
-import {addRecentColor} from '../reducers/nb-recent-colors.js';
+import {addRecentColor} from '../reducers/ac-recent-colors.js';
 import Modes, {GradientToolsModes} from '../lib/modes';
 import {isBitmap} from '../lib/format';
 

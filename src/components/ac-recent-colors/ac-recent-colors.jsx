@@ -2,8 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import ColorButtonComponent from '../color-button/color-button.jsx';
-import GradientTypes from '../../lib/gradient-types';
-import styles from './nb-recent-colors.css';
+import GradientTypes from '../../lib/gradient-types.js';
+import styles from './ac-recent-colors.css';
 
 const RecentColorsComponent = ({recentColors, onSelectColor}) => {
     if (recentColors.length === 0) return null;

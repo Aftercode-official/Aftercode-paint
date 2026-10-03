@@ -13,7 +13,7 @@ import {clearSelectedItems} from '../reducers/selected-items';
 import {clearSelection} from '../helper/selection';
 import {clearHoveredItem, setHoveredItem} from '../reducers/hover';
 import {changeGradientType} from '../reducers/fill-mode-gradient-type';
-import {addRecentColor} from '../reducers/nb-recent-colors.js';
+import {addRecentColor} from '../reducers/ac-recent-colors.js';
 
 import FillModeComponent from '../components/fill-mode/fill-mode.jsx';
 

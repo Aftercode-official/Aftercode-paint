@@ -1,7 +1,7 @@
 import {combineReducers} from 'redux';
 import eyeDropperReducer from './eye-dropper';
 import fillColorReducer from './fill-style';
-import recentColorsReducer from './nb-recent-colors';
+import recentColorsReducer from './ac-recent-colors';
 import strokeColorReducer from './stroke-style';
 import strokeWidthReducer from './stroke-width';
 

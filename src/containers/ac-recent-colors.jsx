@@ -1,10 +1,10 @@
 import {connect} from 'react-redux';
 import PropTypes from 'prop-types';
 
-import RecentColorsComponent from '../components/nb-recent-colors/nb-recent-colors.jsx';
-import {changeFillColor, changeFillColor2, changeFillGradientType} from '../reducers/fill-style';
-import {changeStrokeColor, changeStrokeColor2, changeStrokeGradientType} from '../reducers/stroke-style';
-import GradientTypes from '../lib/gradient-types';
+import RecentColorsComponent from '../components/ac-recent-colors/ac-recent-colors.jsx';
+import {changeFillColor, changeFillColor2, changeFillGradientType} from '../reducers/fill-style.js';
+import {changeStrokeColor, changeStrokeColor2, changeStrokeGradientType} from '../reducers/stroke-style.js';
+import GradientTypes from '../lib/gradient-types.js';
 
 const mapStateToProps = state => ({
     recentColors: state.scratchPaint.color.recentColors,
